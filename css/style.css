@@ -1,0 +1,30 @@
+.qn_category {
+  display: block;
+  float: left;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.qn_form_group {
+  display: inline-block;
+  float: left;
+}
+
+input[type="radio"], input[type="checkbox"] {
+  float: left;
+  margin-right: 5px;
+  margin-top: 4px;
+}
+
+input[type="checkbox"] {
+  margin-left: 6px;
+}
+
+label {
+  width: auto !important;
+  margin-right: 10px;
+}
+
+label[for="qn_notif_unseen"] {
+  margin-right: 0;
+}
