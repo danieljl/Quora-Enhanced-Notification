@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "Quora Improved Notifications",
-	"version": "2.0.0",
+	"version": "1.0.0",
 	"description": "Helps you to filter Quora notifications!",
 	"content_scripts": [
 		{

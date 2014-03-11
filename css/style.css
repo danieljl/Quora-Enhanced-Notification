@@ -28,3 +28,13 @@ label {
 label[for="qn_notif_unseen"] {
   margin-right: 0;
 }
+
+div.qn_more_answers {
+  text-align: center;
+  display: block;
+  margin-top: 0;
+}
+
+.qn_hide {
+  display: none;
+}
