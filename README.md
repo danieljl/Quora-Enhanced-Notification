@@ -22,7 +22,7 @@ The extension has not been available in Chrome Store (yet). But you can install 
 
 - Download [the source code](https://github.com/danieljl/Quora-Enhanced-Notification/archive/master.zip).
 - Extract it to some folder.
-- Open the [Chrome Extensions Management](chrome://extensions/).
+- Open the Chrome Extensions Management (chrome://extensions/).
 - Check 'Developer mode' and click 'Load unpacked extension'.
 - Locate the folder where you extracted the source code and click OK.
 - Go to [Quora Notifications](https://www.quora.com/notifications) and see the difference. :)
