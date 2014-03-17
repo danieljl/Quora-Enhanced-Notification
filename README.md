@@ -12,9 +12,9 @@ A Google Chrome Extension for improving Quora notification system.
 
 ## Screenshots ##
 
-![Screenshot 1](https://raw.githubusercontent.com/danieljl/Quora-Enhanced-Notification/master/screenshots/screnshot-1.png)
-![Screenshot 2](https://raw.githubusercontent.com/danieljl/Quora-Enhanced-Notification/master/screenshots/screnshot-2.png)
-![Screenshot 3](https://raw.githubusercontent.com/danieljl/Quora-Enhanced-Notification/master/screenshots/screnshot-3.png)
+![Screenshot 1](https://raw.githubusercontent.com/danieljl/Quora-Enhanced-Notification/master/screenshots/screenshot-1.png)
+![Screenshot 2](https://raw.githubusercontent.com/danieljl/Quora-Enhanced-Notification/master/screenshots/screenshot-2.png)
+![Screenshot 3](https://raw.githubusercontent.com/danieljl/Quora-Enhanced-Notification/master/screenshots/screenshot-3.png)
 
 ## Installation ##
 
